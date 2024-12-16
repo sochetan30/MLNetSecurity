@@ -1,3 +1,4 @@
 venv_network_sec
-.env
+network_sec
 __pycache__
+.env

@@ -6,7 +6,8 @@ pymongo
 certifi
 scikit-learn
 dill
-pickle
+#pickle
 pyyaml
-
--e .
+mlflow
+dagshub
+#-e .
