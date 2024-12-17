@@ -1,0 +1,6 @@
+[ 2024-12-17 17:46:45,626 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-17 17:46:45,634 ] 107 dagshub - INFO - Accessing as sochetan30
+[ 2024-12-17 17:46:46,144 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/sochetan30/MLNetSecurity "HTTP/1.1 200 OK"
+[ 2024-12-17 17:46:46,644 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-17 17:46:46,650 ] 107 dagshub - INFO - Initialized MLflow to track repo "sochetan30/MLNetSecurity"
+[ 2024-12-17 17:46:46,651 ] 107 dagshub - INFO - Repository sochetan30/MLNetSecurity initialized!
